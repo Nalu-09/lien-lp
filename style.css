@@ -922,7 +922,7 @@ summary:focus-visible {
 
 .price-footnote {
   text-align: center;
-  font-size: 0.80rem;
+  font-size: 0.78rem;
   color: var(--text-soft);
   margin-top: 2.5rem;
   line-height: 1.9;
@@ -983,10 +983,10 @@ summary:focus-visible {
 
 @media (max-width: 768px) {
   .service-note {
-    font-size:0.75rem;
-    line-height: 1.9;
-    letter-spacing: 0.03em;
-  }
+    font-size:0.72rem;
+    margin-top: 2.5rem;
+  line-height: 1.9;
+}
 }
 
 /* ==========================================================================
